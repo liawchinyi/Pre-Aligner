@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Pre-Aligner-rescue:TPS54240DGQ-TPS54240 U?
+L Pre-Aligner-rescue:TPS54240DGQ-TPS54240-Pre-Aligner-rescue U?
 U 1 1 5EF2699C
 P 4450 2600
 AR Path="/5EF2699C" Ref="U?"  Part="1" 
@@ -1017,7 +1017,7 @@ $EndComp
 Text Notes 9750 6450 0    50   ~ 0
 2A
 $Comp
-L TPS55340RTER:TPS55340RTER U?
+L Pre-Aligner-rescue:TPS55340RTER-TPS55340RTER U?
 U 1 1 6214D9B2
 P 5550 7100
 AR Path="/61536758/6213C82A/6214D9B2" Ref="U?"  Part="1" 
@@ -1051,7 +1051,7 @@ F 6 "10µH Shielded Wirewound Inductor 7.2A 16.3mOhm Nonstandard" V 5550 6000 50
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Pre-Aligner-rescue:SBRD10200TR-SBRD10200TR D?
+L Pre-Aligner-rescue:SBRD10200TR-SBRD10200TR-Pre-Aligner-rescue D?
 U 1 1 6214D9C4
 P 6650 6500
 AR Path="/61536758/6213C82A/6214D9C4" Ref="D?"  Part="1" 

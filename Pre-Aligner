@@ -1,0 +1,119 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    </head>
+    <body>
+    <h1>D:\Kicad\Pre-Aligner\Pre-Aligner.kicad_sch</h1>
+    <p>24/06/2022 12:48:58</p>
+    <p>Eeschema (6.0.0)</p>
+    <p><b>Component Count:</b>236</p>
+    <table>
+    <tr><th>Ref</th><th>Qnty</th><th>Value</th><th>Part</th><th>Datasheet</th><th>Description</th><th>Vendor</th></tr><tr><td>BT1</td><td>1</td><td>Battery_Cell</td><td>Device:Battery_Cell</td><td>https://www.digikey.sg/product-detail/en/harwin-inc/S8411-45R/952-1745-2-ND/3131055</td><td>Single-cell battery</td><td></td></tr>
+<tr><td>BZ1</td><td>1</td><td>Buzzer</td><td>Device:Buzzer</td><td>https://www.digikey.sg/en/products/detail/pui-audio-inc/AT-0927-TT-6-R/5011396?s=N4IgTCBcDaIIIBUC0AGAnGA7EhyBsSASiALoC%2BQA</td><td>Buzzer, polarized</td><td></td></tr>
+<tr><td>C1, C3, C4, C6, C7, C8, C9, C10, C11, C12, C13, C17, C18, C19, C20, C23, C24, C25, C26, C27, C28, C29, C30, C31, C35, C37, C38, C41, C42, C45, C46, C47, C48, C49, C50, C51, C56, C57, C58, C59, C60, C62, C63, C65, C66, C68</td><td>46</td><td>0.1UF</td><td>Device:C</td><td>https://www.digikey.sg/product-detail/en/kemet/C0603C104M5RACTU/399-7845-1-ND/3471568</td><td>Unpolarized capacitor</td><td></td></tr>
+<tr><td>C2</td><td>1</td><td>47pF</td><td>Device:C</td><td>https://www.digikey.sg/product-detail/en/johanson-technology-inc/251R14S470GV4T/712-1353-2-ND/1561628</td><td>Unpolarized capacitor</td><td></td></tr>
+<tr><td>C5</td><td>1</td><td>22UF 10V</td><td>Device:C</td><td>https://www.digikey.sg/product-detail/en/murata-electronics/GRM21BR61A226ME51L/490-10511-1-ND/5026441</td><td>Unpolarized capacitor</td><td></td></tr>
+<tr><td>C14, C52, C53, C61, C85</td><td>5</td><td>0.1µF</td><td>Device:C</td><td>https://www.digikey.sg/product-detail/en/murata-electronics/GRM155R71C104KA88J/490-6328-2-ND/2610892</td><td>Unpolarized capacitor</td><td></td></tr>
+<tr><td>C15, C21, C73, C74, C76, C79</td><td>6</td><td>0.1µF</td><td>Device:C</td><td>https://www.digikey.sg/product-detail/en/yageo/CC0603KRX7R0BB104/311-1523-2-ND/3476111</td><td>Unpolarized capacitor</td><td></td></tr>
+<tr><td>C16, C71, C72</td><td>3</td><td>10µF</td><td>Device:C</td><td>https://www.digikey.sg/product-detail/en/kemet/C1210C106K5RACTU/399-11629-1-ND/4918885</td><td>Unpolarized capacitor</td><td></td></tr>
+<tr><td>C22, C34, C36, C87, C88, C89, C90</td><td>7</td><td>10uF</td><td>Device:C</td><td>https://www.digikey.sg/product-detail/en/murata-electronics/GRM188D71A106KA73D/490-14461-2-ND/6606090</td><td>Unpolarized capacitor</td><td></td></tr>
+<tr><td>C32, C33</td><td>2</td><td>22pF</td><td>Device:C</td><td>https://www.digikey.sg/product-detail/en/kemet/C0603C220J1GACTU/399-7874-1-ND/3471597</td><td>Unpolarized capacitor</td><td></td></tr>
+<tr><td>C39, C40</td><td>2</td><td>1UF</td><td>Device:C</td><td>https://www.digikey.sg/product-detail/en/samsung-electro-mechanics/CL10B105MO8NNWC/1276-6524-2-ND/5961008</td><td>Unpolarized capacitor</td><td></td></tr>
+<tr><td>C43, C44</td><td>2</td><td>12pF</td><td>Device:C</td><td>https://www.digikey.sg/product-detail/en/avx-corporation/04025A120FAT2A/478-10087-2-ND/1597378</td><td>Unpolarized capacitor</td><td></td></tr>
+<tr><td>C54, C55, C64, C69, C70, C80, C82, C83</td><td>8</td><td>100µF 50V</td><td>Device:CP1</td><td>https://www.digikey.sg/product-detail/en/panasonic-electronic-components/EEE-FC1H101P/PCE4013CT-ND/817475</td><td></td><td></td></tr>
+<tr><td>C67</td><td>1</td><td>220µF</td><td>Device:CP1</td><td>https://www.digikey.sg/product-detail/en/nichicon/UWT1H221MNL1GS/493-2228-2-ND/589969</td><td></td><td></td></tr>
+<tr><td>C75</td><td>1</td><td>22nF</td><td>Device:C</td><td>https://sg.element14.com/multicomp/mc0603b223k500ct/cap-0-022-f-50v-10-x7r-0603/dp/1759109?st=22nf</td><td>Unpolarized capacitor</td><td></td></tr>
+<tr><td>C77</td><td>1</td><td>1nF</td><td>Device:C</td><td>https://sg.element14.com/yageo/cc0603krx7r9bb102/cap-1000pf-50v-10-x7r-0603/dp/722170?st=1nf</td><td>Unpolarized capacitor</td><td></td></tr>
+<tr><td>C78</td><td>1</td><td>47nF</td><td>Device:C</td><td>https://sg.element14.com/multicomp/mc0603b473k500ct/cap-0-047-f-50v-10-x7r-0603/dp/1759116?st=47nf</td><td>Unpolarized capacitor</td><td></td></tr>
+<tr><td>C81</td><td>1</td><td>1µF</td><td>Device:C</td><td>https://www.digikey.sg/product-detail/en/samsung-electro-mechanics/CL10B105MO8NNWC/1276-6524-2-ND/5961008</td><td>Unpolarized capacitor</td><td></td></tr>
+<tr><td>C84, C86, C91, C92</td><td>4</td><td>22µF</td><td>Device:C</td><td>https://www.digikey.sg/product-detail/en/tdk-corporation/CGA6P1X7R1C226M250AC/445-5723-6-ND/2444330</td><td>Unpolarized capacitor</td><td></td></tr>
+<tr><td>D1</td><td>1</td><td>S5MC-13-F</td><td>Diode:UF5401</td><td>https://www.diodes.com/assets/Datasheets/ds16007.pdf</td><td>100V 3A Soft Recovery Ultrafast Rectifier Diode, DO-201AD</td><td></td></tr>
+<tr><td>D2</td><td>1</td><td>PRTR5V0U2X</td><td>Pre-Aligner-rescue:PRTR5V0U2X-PRTR5V0U2X-PRTR5V0U2X-Pre-Aligner-rescue</td><td>IPC-7351B</td><td></td><td></td></tr>
+<tr><td>D3</td><td>1</td><td>ON</td><td>Device:LED</td><td>https://www.digikey.sg/product-detail/en/lite-on-inc/LTST-C171GKT/160-1423-2-ND/386793</td><td>Light emitting diode</td><td></td></tr>
+<tr><td>D4</td><td>1</td><td>BAT54C</td><td>Diode:BAT54C</td><td>http://www.diodes.com/_files/datasheets/ds11005.pdf</td><td>dual schottky barrier diode, common cathode</td><td></td></tr>
+<tr><td>D5</td><td>1</td><td>RED</td><td>Device:LED</td><td>https://www.digikey.sg/product-detail/en/lite-on-inc/LTST-C171KRKT/160-1427-1-ND/386800</td><td>Light emitting diode</td><td></td></tr>
+<tr><td>D6</td><td>1</td><td>GREEN</td><td>Device:LED</td><td>https://www.digikey.sg/product-detail/en/lite-on-inc/LTST-C171GKT/160-1423-2-ND/386793</td><td>Light emitting diode</td><td></td></tr>
+<tr><td>D7</td><td>1</td><td>1.5SMC33CA</td><td>Diode:Z3SMCxxx</td><td>https://www.digikey.sg/product-detail/en/littelfuse-inc/1-5SMC33CA/1-5SMC33CATR-ND/715015</td><td>3000mW Zener Diode, SMC(DO-214AB)</td><td></td></tr>
+<tr><td>D8</td><td>1</td><td>SBRD10200TR</td><td>Libraries:SBRD10200TR</td><td>https://www.digikey.sg/en/products/detail/smc-diode-solutions/SBRD10200/5993483?s=N4IgTCBcDaIMoCEBKARAjABjBjAVJIAugL5A</td><td></td><td></td></tr>
+<tr><td>D9</td><td>1</td><td>B360A-13-F</td><td>B360A-13-F:B360A-13-F</td><td>https://www.diodes.com/assets/Datasheets/ds30891.pdf</td><td>Schottky Diode 3A 60V 0.7Vf SMA Diodes Inc B360A-13-F, SMT Schottky Diode, 60V 3A, 2-Pin DO-214AC</td><td></td></tr>
+<tr><td>D10</td><td>1</td><td>LED GR</td><td>Device:LED</td><td>https://www.digikey.sg/product-detail/en/lumex-opto-components-inc/SSL-LX5093GD/67-1098-ND/270896</td><td>Light emitting diode</td><td></td></tr>
+<tr><td>D11</td><td>1</td><td>LED GR</td><td>Device:LED</td><td>https://www.digikey.sg/product-detail/en/lite-on-inc/LTST-C171GKT/160-1423-2-ND/386793</td><td>Light emitting diode</td><td></td></tr>
+<tr><td>F1</td><td>1</td><td>Polyfuse 3A</td><td>Device:Polyfuse</td><td>https://www.digikey.sg/product-detail/en/bourns-inc/MF-RX300-72-2/MF-RX300-72-2TR-ND/2561732</td><td>Resettable fuse, polymeric positive temperature coefficient</td><td></td></tr>
+<tr><td>F2</td><td>1</td><td>FUSE 1.1A</td><td>Device:Polyfuse</td><td>https://www.digikey.sg/product-detail/en/littelfuse-inc/1812L110-33MR/F3486CT-ND/2240058</td><td>Resettable fuse, polymeric positive temperature coefficient</td><td></td></tr>
+<tr><td>FL1</td><td>1</td><td>EMI_Filter</td><td>Device:L_Core_Ferrite_Coupled_Small_1423</td><td>https://product.tdk.com/info/en/catalog/datasheets/cmf_commercial_power_acm7060_en.pdf</td><td></td><td></td></tr>
+<tr><td>H1, H2, H3, H4, H5, H6</td><td>6</td><td>MountingHole_Pad</td><td>Mechanical:MountingHole_Pad</td><td>Empty Do not mount</td><td>Mounting Hole with connection</td><td></td></tr>
+<tr><td>IC1, IC2, IC6</td><td>3</td><td>THVD1450DGKR</td><td>THVD1450DGKR:THVD1450DGKR</td><td>http://www.ti.com/lit/ds/symlink/thvd1450.pdf</td><td>RS-422/RS-485 Interface IC RS-485</td><td></td></tr>
+<tr><td>IC3, IC4, IC5</td><td>3</td><td>THVD1450DGKR</td><td>THVD1450DGKR:THVD1450DGKR</td><td>http://www.ti.com/lit/ds/symlink/thvd1450.pdf</td><td>RS-422/RS-485 Interface IC RS-485</td><td></td></tr>
+<tr><td>IC7</td><td>1</td><td>MPQ4423HGQ-P</td><td>MPQ4423:MPQ4423HGQ-P</td><td>https://componentsearchengine.com/Datasheets/1/MPQ4423HGQ-P.pdf</td><td>Switching Voltage Regulators Industrial Grade,High Efficiency 3A,true 36V,Synchronous Step Down Converter</td><td></td></tr>
+<tr><td>J1</td><td>1</td><td>5787834-1</td><td>Pre-Aligner-rescue:5787834-1-5787834-1-Pre-Aligner-rescue</td><td>https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5787834&DocType=Customer+Drawing&DocLang=English</td><td></td><td></td></tr>
+<tr><td>J2</td><td>1</td><td>694108402002</td><td>PJ-067B:PJ-067B</td><td>https://www.we-online.de/katalog/datasheet/6941xx402002.pdf</td><td></td><td></td></tr>
+<tr><td>J3</td><td>1</td><td>Conn_01x02_Male</td><td>Connector:Conn_01x02_Male</td><td>https://www.digikey.sg/product-detail/en/molex/0022272021/WM4111-ND/1130577</td><td>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr>
+<tr><td>J4</td><td>1</td><td>DB9_Male</td><td>Connector:DB9_Male</td><td> ~</td><td>9-pin male D-SUB connector</td><td></td></tr>
+<tr><td>J5</td><td>1</td><td>Conn_01x06</td><td>Connector_Generic:Conn_01x06</td><td>https://www.digikey.sg/products/en?keywords=53047-0610</td><td>Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr>
+<tr><td>J6</td><td>1</td><td>Micro_SD_Card</td><td>Connector:Micro_SD_Card</td><td>http://katalog.we-online.de/em/datasheet/693072010801.pdf</td><td>Micro SD Card Socket</td><td></td></tr>
+<tr><td>J7</td><td>1</td><td>Conn_02x07_Odd_Even</td><td>Connector_Generic:Conn_02x07_Odd_Even</td><td>https://www.digikey.sg/product-detail/en/te-connectivity-amp-connectors/5103308-2/A33161-ND/1114899</td><td>Generic connector, double row, 02x07, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr>
+<tr><td>J8, J9</td><td>2</td><td>2355181-4</td><td>Connector_Generic:Conn_01x04</td><td>https://www.digikey.sg/product-detail/en/te-connectivity-amp-connectors/2-292161-4/A128631-ND/5124519</td><td>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr>
+<tr><td>J10</td><td>1</td><td>DB15_Female</td><td>Connector:DB15_Female</td><td>https://www.digikey.sg/product-detail/en/amphenol-icc-fci/10090929-S154XLF/609-4032-ND/2350302</td><td>15-pin female D-SUB connector (low-density/2 columns)</td><td></td></tr>
+<tr><td>JP1</td><td>1</td><td>SolderJumper_3_Open</td><td>Jumper:SolderJumper_3_Open</td><td>Empty Do not mount</td><td>Solder Jumper, 3-pole, open</td><td></td></tr>
+<tr><td>L1</td><td>1</td><td>FERRITE</td><td>Device:L_Core_Ferrite_Small</td><td>https://www.digikey.sg/product-detail/en/w%C3%BCrth-elektronik/742792651/732-1593-2-ND/1638997</td><td></td><td></td></tr>
+<tr><td>L2, L4</td><td>2</td><td>10µH 5A</td><td>Device:L</td><td>https://www.digikey.sg/en/products/detail/w%C3%BCrth-elektronik/74477110/1638613</td><td>Inductor</td><td></td></tr>
+<tr><td>L3</td><td>1</td><td>220µH 1A</td><td>Device:L</td><td>https://www.digikey.sg/en/products/detail/w%C3%BCrth-elektronik/784770331/8134327</td><td>Inductor</td><td></td></tr>
+<tr><td>L5, L6, L7</td><td>3</td><td>Bead 3A</td><td>pspice:INDUCTOR</td><td>https://www.digikey.sg/en/products/detail/taiyo-yuden/FBMH3225HM601NT/957843</td><td>Inductor symbol for simulation only</td><td></td></tr>
+<tr><td>M1</td><td>1</td><td>Header for 12VDC Fan</td><td>Motor:Fan</td><td>https://www.digikey.sg/product-detail/en/molex/0022272021/WM4111-ND/1130577</td><td>Fan</td><td></td></tr>
+<tr><td>MY1</td><td>1</td><td>Stepper_Motor_bipolar</td><td>Motor:Stepper_Motor_bipolar</td><td>https://www.digikey.sg/en/products/detail/te-connectivity-amp-connectors/640456-4/109006</td><td>4-wire bipolar stepper motor</td><td></td></tr>
+<tr><td>MZ1, MZ2</td><td>2</td><td>Stepper_Motor_bipolar</td><td>Motor:Stepper_Motor_bipolar</td><td>https://www.digikey.sg/en/products/detail/te-connectivity-amp-connectors/640456-4/109006</td><td>4-wire bipolar stepper motor</td><td></td></tr>
+<tr><td>Q1, Q2</td><td>2</td><td>Si2319CDS</td><td>Transistor_FET:Si2319CDS</td><td>http://www.vishay.com/docs/66709/si2319cd.pdf</td><td>-4.4A Id, -40V Vds, P-Channel MOSFET, SOT-23</td><td></td></tr>
+<tr><td>Q3</td><td>1</td><td>2N7002</td><td>Transistor_FET:2N7002</td><td>https://www.digikey.sg/en/products/detail/onsemi/2N7002/244345</td><td>0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23</td><td></td></tr>
+<tr><td>R1, R39, R56</td><td>3</td><td>51K</td><td>Device:R</td><td>https://www.digikey.sg/en/products/detail/yageo/RT0603FRE0751KL/1075410</td><td>Resistor</td><td></td></tr>
+<tr><td>R2, R6, R18, R19, R20, R21, R22, R23, R24, R25, R26, R42, R47, R48, R51, R58</td><td>16</td><td>10K</td><td>Device:R</td><td>https://www.digikey.sg/en/products/detail/stackpole-electronics-inc/RMCF0603FT41K2/1761220</td><td>Resistor</td><td></td></tr>
+<tr><td>R3, R45</td><td>2</td><td>20K</td><td>Device:R</td><td>https://www.digikey.sg/product-detail/en/panasonic-electronic-components/ERA-3AEB203V/P20KDBTR-ND/1465885</td><td>Resistor</td><td></td></tr>
+<tr><td>R4, R5, R17</td><td>3</td><td>330R</td><td>Device:R</td><td>https://www.digikey.sg/product-detail/en/yageo/RC0603FR-07330RL/311-330HRDKR-ND/733056</td><td>Resistor</td><td></td></tr>
+<tr><td>R7, R8</td><td>2</td><td>15K</td><td>Device:R</td><td>https://www.digikey.sg/product-detail/en/panasonic-electronic-components/ERA-3AEB153V/P15KDBTR-ND/1465882</td><td>Resistor</td><td></td></tr>
+<tr><td>R9, R10</td><td>2</td><td>22R</td><td>Device:R</td><td>https://www.digikey.sg/product-detail/en/yageo/RC0603FR-0722RL/311-22-0HRCT-ND/730002</td><td>Resistor</td><td></td></tr>
+<tr><td>R11, R12, R29, R33, R38, R62</td><td>6</td><td>1K</td><td>Device:R</td><td>https://www.digikey.sg/product-detail/en/yageo/RC0603JR-071KL/311-1-0KGRDKR-ND/732571</td><td>Resistor</td><td></td></tr>
+<tr><td>R13, R14, R15, R16</td><td>4</td><td>10kΩ</td><td>Device:R</td><td>https://www.digikey.sg/product-detail/en/stackpole-electronics-inc/RNCP0603FTD10K0/RNCP0603FTD10K0CT-ND/2240478</td><td>Resistor</td><td></td></tr>
+<tr><td>R27, R28</td><td>2</td><td>510R</td><td>Device:R</td><td>https://www.digikey.sg/product-detail/en/yageo/RC0603JR-07510RL/311-510GRDKR-ND/732695</td><td>Resistor</td><td></td></tr>
+<tr><td>R30, R31, R32, R34, R35, R36, R43</td><td>7</td><td>0R</td><td>Device:R</td><td>https://www.digikey.sg/en/products/detail/bourns-inc/CR0603AJ-000EAS/10240122?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAGYBOAJgBZ4BdAgBwBcoQBlVgJwEsAdgHMQAX1EFqpEAAYASgAIAUgFUAsgAUAonJANRQA</td><td>Resistor</td><td></td></tr>
+<tr><td>R37</td><td>1</td><td>91K</td><td>Device:R</td><td>https://www.digikey.sg/en/products/detail/panasonic-electronic-components/ERJ-3GEYJ913V/135827</td><td>Resistor</td><td></td></tr>
+<tr><td>R40, R41, R44, R46</td><td>4</td><td>3K3</td><td>Device:R</td><td>https://www.digikey.sg/product-detail/en/panasonic-electronic-components/ERJ-3GEYJ103V/P10KGTR-ND/135662</td><td>Resistor</td><td></td></tr>
+<tr><td>R49, R50</td><td>2</td><td>0.2R</td><td>Device:R</td><td>https://www.digikey.sg/en/products/detail/panasonic-electronic-components/ERJ-D1CFR200U/9948169</td><td>Resistor</td><td></td></tr>
+<tr><td>R52</td><td>1</td><td>1M</td><td>Device:R</td><td>https://www.digikey.sg/en/products/detail/stackpole-electronics-inc/HVCB0603FDC1M00/4696438</td><td>Resistor</td><td></td></tr>
+<tr><td>R53</td><td>1</td><td>64.9 k</td><td>Device:R</td><td>https://www.digikey.sg/en/products/detail/stackpole-electronics-inc/RMCF0603FT41K2/1761220</td><td>Resistor</td><td></td></tr>
+<tr><td>R54</td><td>1</td><td>20R</td><td>Device:R</td><td>https://www.digikey.sg/en/products/detail/yageo/RC0603FR-0720RL/727039</td><td>Resistor</td><td></td></tr>
+<tr><td>R55</td><td>1</td><td>2K</td><td>Device:R</td><td>https://www.digikey.sg/en/products/detail/stackpole-electronics-inc/RNCP0603FTD2K00/2240114</td><td>Resistor</td><td></td></tr>
+<tr><td>R57</td><td>1</td><td>187K</td><td>Device:R</td><td>https://www.digikey.sg/en/products/detail/stackpole-electronics-inc/RMCF0603FT187K/1761070</td><td>Resistor</td><td></td></tr>
+<tr><td>R59</td><td>1</td><td>41.2K</td><td>Device:R</td><td>https://www.digikey.sg/en/products/detail/stackpole-electronics-inc/RMCF0603FT41K2/1761220</td><td>Resistor</td><td></td></tr>
+<tr><td>R60</td><td>1</td><td>7.68K</td><td>Device:R</td><td>https://www.digikey.sg/en/products/detail/yageo/RT0603BRE077K68L/5928086</td><td>Resistor</td><td></td></tr>
+<tr><td>R61</td><td>1</td><td>3K</td><td>Device:R</td><td>https://www.digikey.sg/product-detail/en/panasonic-electronic-components/ERA-6AEB302V/P3-0KDATR-ND/1465760</td><td>Resistor</td><td></td></tr>
+<tr><td>SV1, SV2</td><td>2</td><td>Electromagnetic_Valve</td><td>Device:Electromagnetic_Actor</td><td>https://www.digikey.sg/product-detail/en/molex/0022272021/WM4111-ND/1130577</td><td></td><td></td></tr>
+<tr><td>SW1, SW2</td><td>2</td><td>SPST</td><td>Switch:SW_Push</td><td>https://www.digikey.sg/product-detail/en/e-switch/TL3342F160QG-TR/EG2531TR-ND/379003</td><td>Push button switch, generic, two pins</td><td></td></tr>
+<tr><td>U1</td><td>1</td><td>MPXA6115A</td><td>Sensor_Pressure:MPXA6115A</td><td>http://www.nxp.com/files/sensors/doc/data_sheet/MPXA6115A.pdf</td><td>Absolute pressure sensor, 15 to 115kPa, analog output, integrated signal conditioning, temperature compensated, SO package</td><td></td></tr>
+<tr><td>U2</td><td>1</td><td>OPA340NA</td><td>Amplifier_Operational:OPA340NA</td><td>http://www.ti.com/lit/ds/symlink/opa340.pdf</td><td>Single Single-Supply, Rail-to-Rail Operational Amplifier, MicroAmplifier Series, SOT-23-5</td><td></td></tr>
+<tr><td>U3, U4</td><td>2</td><td>TCMD1000</td><td>TCMD1000:TCMD1000</td><td>https://www.digikey.sg/product-detail/en/vishay-semiconductor-opto-division/TCMD1000/TCMD1000TR-ND/4251675</td><td></td><td></td></tr>
+<tr><td>U5</td><td>1</td><td>MAX3232</td><td>Interface_UART:MAX3232</td><td>https://datasheets.maximintegrated.com/en/ds/MAX3222-MAX3241.pdf</td><td>3.0V to 5.5V, Low-Power, up to 1Mbps, True RS-232 Transceivers Using Four 0.1μF External Capacitors</td><td></td></tr>
+<tr><td>U6</td><td>1</td><td>MCP4725A0T-E/CH</td><td>Analog_DAC:MCP4725xxx-xCH</td><td>http://ww1.microchip.com/downloads/en/DeviceDoc/22039d.pdf</td><td>12-bit Digital-to-Analog Converter, integrated EEPROM, I2C interface, SOT-23-6</td><td></td></tr>
+<tr><td>U7</td><td>1</td><td>EPM570T100C4N</td><td>CPLD_Altera:EPM570T100</td><td>https://www.digikey.sg/en/products/detail/intel/EPM570T100C4N/705419</td><td>Altera MAX2 CPLD with 570 LE</td><td></td></tr>
+<tr><td>U8</td><td>1</td><td>STM32F767ZGT6</td><td>MCU_ST_STM32F7:STM32F767ZGTx</td><td>https://item.szlcsc.com/92874.html</td><td>ARM Cortex-M7 MCU, 1024KB flash, 384KB RAM, 216MHz, 1.7-3.6V, 114 GPIO, LQFP-144</td><td></td></tr>
+<tr><td>U9</td><td>1</td><td>DRV8825_STEPPER_MOTOR_DRIVER_CARRIER</td><td>DRV8825_STEPPER_MOTOR_DRIVER_CARRIER:DRV8825_STEPPER_MOTOR_DRIVER_CARRIER</td><td>https://www.snapeda.com/parts/DRV8825%20STEPPER%20MOTOR%20DRIVER%20CARRIER/Pololu/datasheet/</td><td></td><td></td></tr>
+<tr><td>U10</td><td>1</td><td>MCP41010T-I/SN</td><td>Potentiometer_Digital:MCP41010</td><td>http://ww1.microchip.com/downloads/en/DeviceDoc/11195c.pdf</td><td>Single Digital Potentiometer, SPI interface, 256 taps, 10 kohm</td><td></td></tr>
+<tr><td>U11</td><td>1</td><td>DRV8825_STEPPER_MOTOR_DRIVER_CARRIER</td><td>DRV8825_STEPPER_MOTOR_DRIVER_CARRIER:DRV8825_STEPPER_MOTOR_DRIVER_CARRIER</td><td>https://www.snapeda.com/parts/DRV8825%20STEPPER%20MOTOR%20DRIVER%20CARRIER/Pololu/datasheet/</td><td></td><td></td></tr>
+<tr><td>U12, U13</td><td>2</td><td>TCMT1600</td><td>Isolator:TCMT1600</td><td>http://www.vishay.com/docs/83512/tcmt1600.pdf</td><td>AC/DC Phototransistor Optocoupler, Vce 70V, CTR 80-300%, SOP4</td><td></td></tr>
+<tr><td>U14</td><td>1</td><td>STSPIN820</td><td>Libraries:STSPIN820</td><td>https://www.digikey.sg/en/products/detail/stmicroelectronics/STSPIN820/7914689</td><td></td><td></td></tr>
+<tr><td>U15</td><td>1</td><td>STSPIN820 Stepper Motor Driver Carrier</td><td>DRV8825_STEPPER_MOTOR_DRIVER_CARRIER:DRV8825_STEPPER_MOTOR_DRIVER_CARRIER</td><td>https://www.snapeda.com/parts/DRV8825%20STEPPER%20MOTOR%20DRIVER%20CARRIER/Pololu/datasheet/</td><td></td><td></td></tr>
+<tr><td>U16</td><td>1</td><td>UA9637</td><td>Interface_LineDriver:UA9637</td><td>http://pdf.datasheetcatalog.com/datasheets2/28/284473_1.pdf</td><td>Dual differential line receiver, DIP-8</td><td></td></tr>
+<tr><td>U17</td><td>1</td><td>ISO7320C</td><td>Isolator:ISO7320C</td><td>https://www.digikey.sg/product-detail/en/texas-instruments/ISO7320CQDRQ1/296-43274-1-ND/5801547</td><td>Low Power Dual-Channel 2/0 Digital Isolator, 25Mbps 33ns, Fail-Safe High, SO8</td><td></td></tr>
+<tr><td>U18</td><td>1</td><td>TPS55340RTER-TPS55340RTER</td><td>Pre-Aligner-rescue:TPS55340RTER-TPS55340RTER</td><td>TPS55340RTER</td><td></td><td></td></tr>
+<tr><td>U19</td><td>1</td><td>LM2575-12WU-TR</td><td>Regulator_Switching:LM2575-12BU</td><td>http://ww1.microchip.com/downloads/en/DeviceDoc/lm2575.pdf</td><td>Fixed 12V 52kHz Simple 1A Buck Regulator, TO-263</td><td></td></tr>
+<tr><td>U20</td><td>1</td><td>AP2114H-3.3TRG1</td><td>Regulator_Linear:LM1117-3.3</td><td>https://item.szlcsc.com/162056.html</td><td>800mA Low-Dropout Linear Regulator, 3.3V fixed output, TO-220/TO-252/TO-263/SOT-223</td><td></td></tr>
+<tr><td>U21</td><td>1</td><td>LM1117MPX-1.8/NOPB</td><td>Regulator_Linear:AMS1117-2.5</td><td>http://www.advanced-monolithic.com/pdf/ds1117.pdf</td><td>1A Low Dropout regulator, positive, 2.5V fixed output, SOT-223</td><td></td></tr>
+<tr><td>X1</td><td>1</td><td>Oscillator</td><td>Oscillator:Oscillator</td><td>https://www.digikey.sg/product-detail/en/ecs-inc/ECS-2033-500-BN/XC1439DKR-ND/1693837</td><td>HCMOS Clock Oscillator</td><td></td></tr>
+<tr><td>Y1</td><td>1</td><td>8MHZ</td><td>Device:Crystal</td><td>https://www.digikey.sg/product-detail/en/abracon-llc/ABM7-8-000MHZ-D2Y-T/535-9831-2-ND/2001198</td><td>Two pin crystal</td><td></td></tr>
+<tr><td>Y2</td><td>1</td><td>32.768kHz</td><td>Device:Crystal_Small</td><td>https://www.digikey.sg/product-detail/en/seiko-instruments/SC20S-12-5PF20PPM/728-1075-2-ND/4931505</td><td>Two pin crystal, small symbol</td><td></td></tr>
+<!--TABLEROW-->
+    </table>
+    </body>
+</html>
+    

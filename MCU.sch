@@ -66,7 +66,7 @@ F 3 "" H 16800 4000 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Pre-Aligner-rescue:LOGO-LOGO #G?
+L Pre-Aligner-rescue:LOGO-LOGO-Pre-Aligner-rescue #G?
 U 1 1 6062E902
 P 21000 14250
 AR Path="/6060952E/6062E902" Ref="#G?"  Part="1" 

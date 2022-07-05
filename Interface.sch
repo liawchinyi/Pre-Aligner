@@ -338,7 +338,7 @@ F 3 "" H 8100 8650 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Pre-Aligner-rescue:PRTR5V0U2X-PRTR5V0U2X-PRTR5V0U2X D?
+L Pre-Aligner-rescue:PRTR5V0U2X-PRTR5V0U2X-PRTR5V0U2X-Pre-Aligner-rescue D?
 U 1 1 608EA677
 P 8600 8850
 AR Path="/6060952E/608EA677" Ref="D?"  Part="1" 
@@ -955,7 +955,7 @@ F 6 "ERJ-3GEYJ103V" H 2900 6550 50  0001 C CNN "Manufacturer_Part_Number"
 $EndComp
 Connection ~ 2900 6700
 $Comp
-L Pre-Aligner-rescue:5787834-1-5787834-1 J5
+L Pre-Aligner-rescue:5787834-1-5787834-1-Pre-Aligner-rescue J5
 U 1 1 614AE222
 P 5150 9500
 AR Path="/614AE222" Ref="J5"  Part="1" 

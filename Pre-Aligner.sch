@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Pre-Aligner-rescue:LOGO-LOGO #G?
+L Pre-Aligner-rescue:LOGO-LOGO-Pre-Aligner-rescue #G?
 U 1 1 60759AD1
 P 9250 6000
 AR Path="/6060952E/60759AD1" Ref="#G?"  Part="1" 
